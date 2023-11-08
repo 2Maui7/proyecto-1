@@ -1,0 +1,8 @@
+.banner__titulo{
+    text-align:left ;
+    position: relative;
+    color: bisque;
+    padding-top: 7rem;
+    font-size: 1.5rem ;
+    font-weight: 900;
+}

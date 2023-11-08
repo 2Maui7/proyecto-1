@@ -1,0 +1,9 @@
+.banner__imagen{
+    background: url('/imagenes/portada.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 15rem;
+    padding-left: 3rem;
+}
