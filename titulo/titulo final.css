@@ -1,4 +1,6 @@
 .titulo__final{
     text-decoration: none;
     color: chartreuse;
+    font-weight: bold;
+    margin-right: 3rem;
 }

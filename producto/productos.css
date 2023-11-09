@@ -1,0 +1,5 @@
+.productos{
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-left: 3.2rem;
+}

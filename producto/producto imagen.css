@@ -1,4 +1,4 @@
-.productos{
-    display: inline-flex;
-    flex-wrap: wrap;
+.producto__imagen{
+    height:auto;
+    width: auto;
 }

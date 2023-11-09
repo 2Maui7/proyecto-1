@@ -1,0 +1,8 @@
+.items{
+    padding-left: 5rem;
+    padding-right: 0;
+}
+.items:hover{
+    color: green;
+    list-style: none;
+}

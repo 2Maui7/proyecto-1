@@ -1,6 +1,8 @@
 .banner__boton{
-    padding: 0.2rem ;
-    padding-left: 0.3rem;
+    padding: 1rem ;
+    padding-left: 0.6rem;
     background-color:green;
     color: aliceblue;
+    text-align: center;
+    font-weight: bold;
 }

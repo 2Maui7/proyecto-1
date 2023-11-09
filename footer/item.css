@@ -1,0 +1,9 @@
+.item{
+    text-decoration: none;
+    padding-bottom: 1.5rem;
+    list-style: none;
+    font-size: 1.05rem;
+}
+.item:hover{
+    color: blue;
+}

@@ -1,5 +1,5 @@
-.menu__link{
+.item__link{
     text-decoration: none;
     color: black;
-    font-size: 1.7rem;
+    font-weight: 550;
 }

@@ -1,6 +1,7 @@
 .menu__lista{
     display: flex;
     background-color: crimson;
-    padding-left: 1rem;
+
+    padding: 1.5rem 4rem 1.5rem 2rem;
 
 }
