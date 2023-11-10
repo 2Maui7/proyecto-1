@@ -1,0 +1,11 @@
+.producto__descripcion{
+    color: rgba(29, 29, 31, 1);
+    position: relative;
+    left: 0;
+    text-align: center;
+    justify-content: start;
+    font-size: 1.6rem;
+    padding-top: 0;
+
+    
+}
